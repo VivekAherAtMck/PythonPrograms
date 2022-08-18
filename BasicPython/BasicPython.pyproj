@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>25297ce1-3535-4d2d-a77c-2b87b8e59d46</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BasicPython.py</StartupFile>
+    <StartupFile>ExtractPhoneFromStringBasic.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BasicPython.py" />
+    <Compile Include="ExtractPhoneFromStringBasic.py" />
     <Compile Include="RegularExpression.py">
       <SubType>Code</SubType>
     </Compile>
